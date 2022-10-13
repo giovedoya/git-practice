@@ -1,3 +1,4 @@
 name: Ironhacker
 age: 43
 Favorite color: red
+Studies: Philosophy
